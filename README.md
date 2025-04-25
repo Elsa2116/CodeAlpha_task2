@@ -1,21 +1,17 @@
-#  Play Music Web App
+## Simple Calculator
 
-A sleek and responsive music player web application that allows users to play, pause, and navigate through their favorite tracks. Built with HTML, CSS, and JavaScript, this app delivers a smooth and interactive audio experience right in the browser.
+A simple, user-friendly calculator web application built using HTML, CSS, and JavaScript. This project allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
 
 ## Features
 
-- 🎶 Play, pause, skip to next/previous tracks
-- 🔁 Loop and shuffle modes
-- 🕒 Track duration & progress bar
-- 🎨 Animated UI with a modern design
-- 📱 Fully responsive on all devices
+- Responsive and intuitive UI
+- Real-time calculations
+- Handles decimal and multi-digit numbers
+- Clear and reset functionality
 
-##  Tech Stack
+##  Technologies Used
 
-- **HTML5** – Structure and layout
-- **CSS3** – Styling and animations
-- **JavaScript (ES6)** – Functionality and DOM interactions
-
-
-
+- **HTML5** – Structure of the calculator
+- **CSS3** – Styling and layout
+- **JavaScript** – Core logic and user interactions
 
